@@ -1,10 +1,10 @@
 # Keep Problems
 
-A Browser extension which helps to save and keep track of problems from different platforms(codeforces, codechef, atcoder, leetcode etc.)
+A Browser extension which helps to save and keep track of problems from different platforms(codeforces, CodeChef, AtCoder, leetcode etc.)
 
 ## Installation
 
-- [Install it from Chrome Web Store](https://chrome.google.com/webstore/detail/keep-problems/bpcgbgiipbblkoajepkmlcdgafnhiamp)
+- [Install it from Chrome Web Store](https://chromewebstore.google.com/detail/keep-problems/bpcgbgiipbblkoajepkmlcdgafnhiamp)
 
 ## Features
 
@@ -13,15 +13,15 @@ A Browser extension which helps to save and keep track of problems from differen
 - Save problem with link, name, difficulty, tags, code and notes
 - If codeforces problem, then it will fetch name, difficulty and tags
 - For other platforms, it will fetch possible information
-- Add code and notes in code and notes section
+- Add code and notes in the code and notes section
 - Manage problems in different folders by giving appropriate folder name
 
 ### Import/Export
 
-- Do you share problems with other? If yes, then this feature can be very useful for you
-- Add and filter problems you want to store and click on Export button in navbar. JSON file will be stored in your computer
-- Share this json file with anyone
-- User can Import this problems in Other page by providing JSON file, folder name (optional) and tags (optional)
+- Do you share problems with others? If yes, then this feature can be very useful for you
+- Add and filter problems you want to store and click on the Export button in the navbar. JSON file will be stored in your computer
+- Share this JSON file with anyone
+- User can Import these problems in the Other page by providing JSON file, folder name (optional) and tags (optional)
 
 ### Sort, Search, Filter, Edit, Delete
 
